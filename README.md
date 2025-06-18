@@ -1,4 +1,4 @@
-# Cohort3 🚀 – 100xDev Web Dev + DevOps + Web3 Journey
+# Cohort3 Web2 🚀 – 100xDev Web Dev + DevOps + Web3 Journey
 
 This repository contains **lecture code, notes, assignments**, and **solution code** from **Cohort 3** of the [100xDevs](https://www.youtube.com/@HarkiratSingh) program led by **Harkirat Singh**.
 
